@@ -1,0 +1,9 @@
+{
+    "name": "mayki/cadastro-produto",
+    "autoload": {
+        "psr-4": {
+            "Mayki\\CadastroProduto\\": "src/"
+        }
+    },
+    "require": {}
+}
