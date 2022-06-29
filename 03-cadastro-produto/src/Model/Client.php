@@ -1,6 +1,6 @@
 <?php
 
-namespace Mayki\CadastroProduto\Model;
+namespace APP\Model;
 
 class Client
 {
@@ -8,5 +8,5 @@ class Client
     private string $name;
     private string $email;
     private string $phone;
-    private Address $adress;
+    private Address $address;
 }

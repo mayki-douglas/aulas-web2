@@ -1,6 +1,6 @@
 <?php
 
-namespace Mayki\CadastroProduto\Model;
+namespace APP\Model;
 
 class Employee
 {

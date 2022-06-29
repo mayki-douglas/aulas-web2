@@ -1,9 +1,11 @@
 {
-    "name": "mayki/cadastro-produto",
+    "name": "anderson/loja_de_varejo",
     "autoload": {
         "psr-4": {
-            "Mayki\\CadastroProduto\\": "src/"
+            "APP\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "monolog/monolog": "^3.1"
+    }
 }
