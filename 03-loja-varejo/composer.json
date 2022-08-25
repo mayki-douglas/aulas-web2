@@ -1,0 +1,14 @@
+{
+    "name": "mayki/loja_de_varejo",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        },
+        "files": [
+            "Config.php"
+        ]
+    },
+    "require": {
+        "monolog/monolog": "^3.1"
+    }
+}
