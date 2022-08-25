@@ -9,5 +9,5 @@ Exercícios e projetos feitos em aula de web para PHP.
 
 Usar os seguintes comandos:
 
-*$ composer require monolog/monolog* (carregar pacotes em PHP usando composer)
+*$ composer require monolog/monolog* (carregar pacotes em PHP usando composer)<br>
 *$ npm run buildCSS* (script de build do tailwind CSS)
